@@ -1,2 +1,1 @@
-# letra-a
-Desafio de lógica de programação
+## Código iniciado com o arquivo "app.js"

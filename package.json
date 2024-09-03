@@ -1,0 +1,11 @@
+{
+  "name": "letra-a",
+  "version": "1.0.0",
+  "description": "Desafio de lógica de programação",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
